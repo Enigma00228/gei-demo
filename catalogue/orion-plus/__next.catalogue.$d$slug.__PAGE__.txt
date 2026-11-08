@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[55595,["/_next/static/chunks/0w8bffkz36nyj.js","/_next/static/chunks/0k-e.~lqd4w25.js","/_next/static/chunks/16ty-l-5eo.kw.js","/_next/static/chunks/0hu80n6.7nbj4.js","/_next/static/chunks/0e0cn~o4dwcmg.js"],"FicheProduit"]
-3:I[97367,["/_next/static/chunks/0w8bffkz36nyj.js","/_next/static/chunks/0k-e.~lqd4w25.js","/_next/static/chunks/16ty-l-5eo.kw.js","/_next/static/chunks/0hu80n6.7nbj4.js"],"OutletBoundary"]
+2:I[55595,["/_next/static/chunks/0w8bffkz36nyj.js","/_next/static/chunks/0lca~mnqafn~q.js","/_next/static/chunks/16ty-l-5eo.kw.js","/_next/static/chunks/0hu80n6.7nbj4.js","/_next/static/chunks/0e0cn~o4dwcmg.js"],"FicheProduit"]
+3:I[97367,["/_next/static/chunks/0w8bffkz36nyj.js","/_next/static/chunks/0lca~mnqafn~q.js","/_next/static/chunks/16ty-l-5eo.kw.js","/_next/static/chunks/0hu80n6.7nbj4.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"p":{"id":"orion-plus","name":"Orion Plus","category":"indicateur","categoryLabel":"Indicateur","tag":"IP65","spec":"Indicateur de pesage haute précision · IP65 · sortie Ethernet/RS232"}}],[["$","script","script-0",{"src":"/_next/static/chunks/0e0cn~o4dwcmg.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"AXUIXfVW4MiLP3OMdZfxP"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"p":{"id":"orion-plus","name":"Orion Plus","category":"indicateur","categoryLabel":"Indicateur","tag":"IP65","spec":"Indicateur de pesage haute précision · IP65 · sortie Ethernet/RS232"}}],[["$","script","script-0",{"src":"/_next/static/chunks/0e0cn~o4dwcmg.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"_0O4VhXglKCkgFFn9Ws9y"}
 5:null
