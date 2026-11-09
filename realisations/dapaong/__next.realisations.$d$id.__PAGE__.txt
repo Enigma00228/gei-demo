@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[91975,["/_next/static/chunks/0w8bffkz36nyj.js","/_next/static/chunks/0n53zlnaei23d.js","/_next/static/chunks/0s_7bg20k9g4c.js","/_next/static/chunks/0hu80n6.7nbj4.js","/_next/static/chunks/0p4bbp_tpqciv.js"],"FicheProjet"]
+3:I[97367,["/_next/static/chunks/0w8bffkz36nyj.js","/_next/static/chunks/0n53zlnaei23d.js","/_next/static/chunks/0s_7bg20k9g4c.js","/_next/static/chunks/0hu80n6.7nbj4.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"p":{"id":"dapaong","titre":"Étalonnage d’un pont bascule","client":"Centre d’enfouissement de Dapaong","lieu":"Dapaong · Togo","date":"[année]","tri":"","metier":"Pesage · étalonnage","filtre":"etalonnage","description":"Le camion-grue dépose les masses étalons sur le pont, pour l’étalonnage.","photos":[{"img":"/photos/chantiers/etalonnage-camion-grue-masses.webp","titre":"Le camion-grue apporte les masses étalons","description":"Le camion-grue dépose les masses étalons sur le pont, pour l’étalonnage."}]}}],[["$","script","script-0",{"src":"/_next/static/chunks/0p4bbp_tpqciv.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ySLbvWKiq3H21hobyOw2n"}
+5:null
